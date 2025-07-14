@@ -68,7 +68,7 @@ In the ingredients list, replace the fresh fruit entries with their correspondin
 Do NOT list both the fresh fruit and the syrup in the ingredients list.
 Include clear instructions for how to make each fruit syrup as part of the steps.
 
-💡 Do NOT include any introductory text or explanation outside the JSON object.
+Do NOT include any introductory text or explanation outside the JSON object.
 
 Ingredients: {data.ingredients}
 """
